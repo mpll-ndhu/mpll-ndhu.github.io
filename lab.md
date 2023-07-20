@@ -83,6 +83,8 @@ Email: sam2227219[at]gmail.com
 
 <br/>
 
+<!--
+
 <img src="Chun-Tai.png" align="left" style="margin-top:5px; margin-right:81px" alt="Chun-Tai"/>
 
 Name: 陳均岱 (Chun-Tai Chen)
@@ -112,8 +114,6 @@ Email: smh642800[at]gmail.com
 <br/>
 
 <hr>
-
-<!--
 
 <img src="Yi-Chung.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yi-Chung"/>
 
