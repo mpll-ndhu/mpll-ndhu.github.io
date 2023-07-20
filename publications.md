@@ -3,7 +3,7 @@ layout: default
 title: My publications
 ---
 <h2 style="text-align: center">Selected Journal Papers</h2>
-
+* Zih-Hao Huang, Wei-Cheng Huang, Hsien-Chang Wu, and Wen-Chieh Fang. "TongueMobile: Automated tongue segmentation and diagnosis on smartphones." Neural Computing and Applications. accepted. (SCI journal, 2022 impact factor: 6.0) 
 * Munlika Rattaphun, Wen-Chieh Fang, and Chih-Yi Chiu. "Attention on global–local representation spaces in recommender systems." IEEE Transactions on Computational Social Systems, 2021. (SCI journal, 2021 impact factor: 5.357) [link](https://ieeexplore.ieee.org/document/9638260)
 * Robert Küffner, Neta Zach, Maya Bronfeld, Raquel Norel, Nazem Atassi, Venkat Balagurusamy, Barbara di Camillo, Adriano Chio, Merit Cudkowicz, Donna Dillenberger, Javier Garcia-Garcia, Orla Hardiman, Bruce Hoff, Joshua Knight, Melanie Leitner, Guang Li, Lara Mangravite, Thea Norman, Liuxia Wang, ALS stratification consortium, Jinfeng Xiao, Wen-Chieh Fang, Jian Peng, Chen Yang, Huan-Jui Chang, and Gustavo Stolovitzky, "Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach," Scientific Reports, vol. 9, Article number:690, 2019. (SCI journal, 2018 impact factor:4.525). [link](https://www.nature.com/articles/s41598-018-36873-4)
 * Min-Chun Hu, Kun-chan Lan, Wen-Chieh Fang, Yu-chia Huang, Tsung-Jung Ho, Chun-Pang Lin, Ming-Hsien Yeh, Paweeya Raknim, Ying-Hsiu Lin, Ming-Hsun Cheng, Yi-Ting He, Kuo-Chih Tseng, "Automated tongue diagnosis on the smartphone and its applications," Computer Methods and Programs in Biomedicine, vol.174, pp.51-64, 2019. (SCI journal, 2018 impact factor:3.338, The first six authors contributed equally to this work). [link](https://www.sciencedirect.com/science/article/pii/S0169260717308477)
@@ -13,6 +13,7 @@ and computer vision journal). [link](https://www.sciencedirect.com/science/artic
 
 <h2 style="text-align: center">Selected Conference Papers</h2>
 
+* Jing-Han Liao, Yi-Chung Chen, and Wen-Chieh Fang. Federated Collaborative Filtering for Movie Recommendation: A Systematic Approach. In Proceedings of the nineteenth Taiwan Conference on Software Engineering (TCSE 2023), 2023.
 * Pei-Hsin Hsieh and Wen-Chieh Fang. Face de-identification using face processing methods. In Proceedings of the twenty-sixth Conference on Technologies and Applications of Artificial Intelligence (TAAI 2021), 2021.
 * Li-Yi Mao, Kun-Hsing Chiang, and Wen-Chieh Fang. Automatic recognition of broiler flock distribution with object detection and clustering technology. In Proceedings od twenty-fifth Conference on Technologies and Applications of Artificial Intelligence (TAAI 2020), 2020.
 * Jiao-Chuan Huang, You-Lin Lin, and Wen-Chieh Fang. Real-time aquarium fish part detection and localization. In Proceedings of the sixteenth Taiwan Conference on Software Engineering (TCSE 2020), 2020.
