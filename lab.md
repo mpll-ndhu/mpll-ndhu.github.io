@@ -131,8 +131,6 @@ Facebook: [Link](https://www.facebook.com/profile.php?id=100008204259733&mibexti
 
 <br/>
 
-<br/>
-
 <img src="Pin-An.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pin-An"/>
 
 Name: 林品安 (Pin-An Lin)
