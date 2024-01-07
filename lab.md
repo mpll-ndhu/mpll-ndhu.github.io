@@ -9,7 +9,7 @@ title: My lab
 
 <h2 style="text-align: center">Master students</h2>
 
-<img src="xxx.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Chi"/>
+<img src="Pei-Chi.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Chi"/>
 
 Name: 包沛琪 (Pei-Chi Bao)
 
