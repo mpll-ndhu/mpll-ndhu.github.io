@@ -9,6 +9,20 @@ title: My lab
 
 <h2 style="text-align: center">Master students</h2>
 
+<img src="Pei-Chi.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Chi"/>
+
+Name: 包沛琪 (Pei-Chi Bao)
+
+Email: tidy711911[at]gmail.com
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
 <img src="Pei-Hsin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Hsin"/>
 
 Name: 謝佩欣 (Pei-Hsin Hsieh)
@@ -54,6 +68,70 @@ Email: ken313640[at]gmail.com
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
+
+<img src="mook.png" align="left" style="margin-top:5px; margin-right:81px" alt="mook"/>
+
+Name: Punyatida Phongha (Mook) 李熙欣
+
+Email: m00kwh0[at]gmail.com
+
+Facebook: https://www.facebook.com/profile.php?id=100068630199520&mibextid=LQQJ4d
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<img src="josue.png" align="left" style="margin-top:5px; margin-right:81px" alt="josue"/>
+
+Name: Josue Fernandez 馮裕行
+
+Email: davyd3501[at]gmail.com
+
+Github: @Crimson1ce
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<img src="carlos.png" align="left" style="margin-top:5px; margin-right:81px" alt="carlos"/>
+
+Name: Carlos Andres Pineda Lagos 鄧宇翔
+
+Email: carloseditsstuff[at]gmail.com
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<img src="artem.png" align="left" style="margin-top:5px; margin-right:81px" alt="artem"/>
+
+Name: Artem Mozol 卓康文
+
+Email: mozolartem1202[at]gmail.com
+
+Github: @justortem
+
+Facebook: https://www.facebook.com/profile.php?id=100008204259733&mibextid=LQQJ4d
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
 
 <img src="Pin-An.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pin-An"/>
 
