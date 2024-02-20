@@ -23,20 +23,6 @@ Email: tidy711911[at]gmail.com
 
 <br/>
 
-<img src="Pei-Hsin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Hsin"/>
-
-Name: 謝佩欣 (Pei-Hsin Hsieh)
-
-Email: student70226[at]gmail.com
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
 <img src="Yi-Cheng.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yi-Cheng"/>
 
 Name: 蔡易澄 (Yi-Cheng Tsai)
