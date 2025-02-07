@@ -1,0 +1,45 @@
+- category: alumni-phd
+  images: [] # Empty array
+- category: alumni-master
+  images:
+    - name: 蔡易澄 (Yi-Cheng Tsai)
+      photo: alumni/master/Yi-Cheng.png
+      graduation-year: 2025
+    - name: 何奕良 (Yi-Liang Ho)
+      photo: alumni/master/Yi-Liang.png
+      graduation-year: 2024
+    - name: 謝佩欣 (Pei-Hsin Hsieh)
+      photo: alumni/master/Pei-Hsin.png
+      graduation-year: 2024
+- category: alumni-undergraduate
+  images: 
+    - name: 蔣昆興 (Kun-Hsing Chiang)
+      photo: alumni/undergraduate/Kun-Hsing.jpg
+    - name: 毛力毅 (Li-Yi Mao)
+      photo: alumni/undergraduate/Li-Yi.jpg
+    - name: 林宥霖 (You-Lin Lin)
+      photo: alumni/undergraduate/You-Lin.jpg
+    - name: 黃教全 (Jiao-Chuan Huang)
+      photo: alumni/undergraduate/Jiao-Chuan.png
+    - name: 黃梓豪 (Zih-Hao Huang)
+      photo: alumni/undergraduate/Zih-Hao.jpeg
+    - name: 黃偉誠 (Wei-Cheng Huang)
+      photo: alumni/undergraduate/Wei-Cheng.jpg
+    - name: 陳奕中 (Yi-Chung Chen)
+      photo: alumni/undergraduate/Yi-Chung.jpg
+    - name: 廖經翰 (Jing-Han Liao)
+      photo: alumni/undergraduate/Jing-Han.jpg
+    - name: 林桂梅 (Guei-Mei Lin)
+      photo: alumni/undergraduate/Guei-Mei.jpg
+    - name: 黃珮華 (Pei-Hua Huang)
+      photo: alumni/undergraduate/Pei-Hua.jpg
+    - name: 歐宇哲 (Yu-Zhe Ou)
+      photo: alumni/undergraduate/Yu-Zhe.jpg
+    - name: 陳品澔 (Pin-Hao Chen)
+      photo: alumni/undergraduate/Pin-Hao.jpg  
+- category: alumni-assistant
+  images: 
+    - name: 盧欣依 (Hsin-Yi Lu)
+      photo: alumni/assistant/Hsin-Yi.jpg
+    - name: 林怡瑄 (Yi-Hsun Lin)
+      photo: alumni/assistant/Yi-Hsun.jpg
