@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My lab
-permalink: /students/
+permalink:
 ---
 
 <h2 style="text-align: center">Machine Perception and Learning Laboratory (機器感知暨學習實驗室)</h2>
