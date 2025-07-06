@@ -84,7 +84,26 @@ permalink:
     {% endif %}
 </div>
 {% endif %}
+
+
+{% if category_data.category == "current-volunteer" %}
+<hr>
+<h2 style="text-align: center">Volunteer students</h2>
+{% assign students = category_data.images %}
+<div class="gallery">
+    {% if students and students.size > 0 %}
+    {% for student in students %}
+    <div class="student-card">
+        <img src="/assets/images/{{ student.photo }}" alt="{{ student.name }}">
+        <h4>{{ student.name }}</h4>
+        <!--<p>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></p>-->
+    </div>
+    {% endfor %}
+    {% endif %}
+</div>
+{% endif %}
 {% endfor %}
+
 
 <h2 style="text-align: center">Alumni</h2>
 <hr>

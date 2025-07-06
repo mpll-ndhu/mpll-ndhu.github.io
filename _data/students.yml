@@ -46,6 +46,14 @@
       photo: undergraduate/Pin-An.png
     - name: 徐文献 (Wen-Hsien Hsu)
       photo: undergraduate/Wen-Hsien.png  
+- category: current-volunteer
+  images:
+    - name: Jaime Rolando Mejia
+      photo: volunteer/jaime.jpg
+    - name: Yachada Phornphatcharaphong
+      photo: volunteer/yachada.jpeg
+    - name: Le Nguyen Hoang My Dinh
+      photo: volunteer/loe.jpg
 - category: alumni-phd # No images for this category yet
   images: [] # Empty array     
 - category: alumni-master
