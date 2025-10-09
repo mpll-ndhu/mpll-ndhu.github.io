@@ -24,36 +24,18 @@
       photo: undergraduate/Kelvin.jpg
     - name: Muhammad Yazid Alfarisi
       photo: undergraduate/Yazid.jpg
-    - name: 胡媛梅 (Yuan-Mei Hu)
-      photo: undergraduate/Joanna.jpg
-    - name: 吳佳慧 Jia-Hui Wu
-      photo: undergraduate/Carol.jpg
-    - name: 蔡佳均 Jia-Jun Tsai
-      photo: undergraduate/Janet.jpg
+    - name: Nguyen Minh Chinh
+      photo: undergraduate/nguyen.jpg  
     - name: Cassie Charlie
       photo: undergraduate/cassie.jpg
     - name: Rajwani Zalfa Syafitri
       photo: undergraduate/wani.png
-    - name: Kebah Mali Crafton
-      photo: undergraduate/Kebah.jpg
     - name: Alex Carlos Ack
       photo: undergraduate/Alex.jpg
     - name: Kornchanok Nuntaburut
       photo: undergraduate/K.jpg
-    - name: Philron Cambridge
-      photo: undergraduate/Phil.jpg
-    - name: Punyatida Phongha
-      photo: undergraduate/mook.png
     - name: Carlos Andres Pineda Lagos
-      photo: undergraduate/carlos.png
-    - name: Artem Mozol
-      photo: undergraduate/artem.png
-    - name: Josue Fernandez
-      photo: undergraduate/josue.png  
-    - name: 林品安 (Pin-An Lin)
-      photo: undergraduate/Pin-An.png
-    - name: 徐文献 (Wen-Hsien Hsu)
-      photo: undergraduate/Wen-Hsien.png  
+      photo: undergraduate/carlos.png  
 - category: current-volunteer
   images:
     - name: Jaime Rolando Mejia
@@ -73,4 +55,24 @@
     - name: 謝佩欣 (Pei-Hsin Hsieh)
       photo: alumni/master/Pei-Hsin.png
 - category: alumni-undergraduate
-  images: [] # Empty array
+  images:
+    - name: 胡媛梅 (Yuan-Mei Hu)
+      photo: undergraduate/Joanna.jpg
+    - name: 吳佳慧 Jia-Hui Wu
+      photo: undergraduate/Carol.jpg
+    - name: 蔡佳均 Jia-Jun Tsai
+      photo: undergraduate/Janet.jpg
+    - name: Kebah Mali Crafton
+      photo: undergraduate/Kebah.jpg
+    - name: Philron Cambridge
+      photo: undergraduate/Phil.jpg
+    - name: Punyatida Phongha
+      photo: undergraduate/mook.png
+    - name: Artem Mozol
+      photo: undergraduate/artem.png
+    - name: Josue Fernandez
+      photo: undergraduate/josue.png  
+    - name: 林品安 (Pin-An Lin)
+      photo: undergraduate/Pin-An.png
+    - name: 徐文献 (Wen-Hsien Hsu)
+      photo: undergraduate/Wen-Hsien.png
