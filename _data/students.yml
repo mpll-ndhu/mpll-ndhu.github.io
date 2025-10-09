@@ -2,18 +2,22 @@
   images:
     - name: Mark Lister Valeroso Nalupa
       photo: phd/mark.jpg
-      email: marklister.nalupa@ustp.edu.ph
 - category: current-master
   images:
     - name: Azhane Louriano
       photo: master/azhane.jpg
-      email: azhanelauriano@gmail.com
     - name: 林泓譯 (Hung-Yi Lin)
       photo: master/redyee.jpg
-      email: marklin820[at]gmail.com
     - name: 包沛琪 (Pei-Chi Bao)
       photo: master/Pei-Chi.png
-      email: tidy711911[at]gmail.com
+    - name: Sofia Edwards
+      photo: master/sofia.jpg
+    - name: Sara Abu Romoh
+      photo: master/sara.jpg
+    - name: Fay Adwan
+      photo: master/fay.jpeg
+    - name: Kidwell Dlamini
+      photo: master/kidwell.jpg
 - category: current-undergraduate
   images: 
     - name: Kelvin Pratama

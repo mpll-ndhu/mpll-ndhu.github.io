@@ -3,8 +3,9 @@ layout: default
 title: My teaching
 ---
 National Dong Hwa University
-* Fall   2023, Data Structures 
-* Fall   2023, Advanced Machine Learning Principles and Technology
-* Fall   2023, Social Networks and recommender systems
-* Spring 2023, Introduction to machine learning
-* Spring 2023, Introduction to big data analysis
+* Fall   2025, Introduction to computer science
+* Fall   2025, Introduction to generative AI
+* Fall   2025, Introduction to machine learning
+* Spring 2025, Scalable computing: foundation and practice  
+* Spring 2025, Introduction to machine learning
+* Spring 2025, Advanced Machine Learning Principles and Technology
