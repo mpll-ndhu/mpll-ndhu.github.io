@@ -44,35 +44,4 @@
       photo: volunteer/yachada.jpeg
     - name: Le Nguyen Hoang My Dinh
       photo: volunteer/loe.jpg
-- category: alumni-phd # No images for this category yet
-  images: [] # Empty array     
-- category: alumni-master
-  images:
-    - name: 蔡易澄 (Yi-Cheng Tsai)
-      photo: alumni/master/Yi-Cheng.png
-    - name: 何奕良 (Yi-Liang Ho)
-      photo: alumni/master/Yi-Liang.png
-    - name: 謝佩欣 (Pei-Hsin Hsieh)
-      photo: alumni/master/Pei-Hsin.png
-- category: alumni-undergraduate
-  images:
-    - name: 胡媛梅 (Yuan-Mei Hu)
-      photo: undergraduate/Joanna.jpg
-    - name: 吳佳慧 Jia-Hui Wu
-      photo: undergraduate/Carol.jpg
-    - name: 蔡佳均 Jia-Jun Tsai
-      photo: undergraduate/Janet.jpg
-    - name: Kebah Mali Crafton
-      photo: undergraduate/Kebah.jpg
-    - name: Philron Cambridge
-      photo: undergraduate/Phil.jpg
-    - name: Punyatida Phongha
-      photo: undergraduate/mook.png
-    - name: Artem Mozol
-      photo: undergraduate/artem.png
-    - name: Josue Fernandez
-      photo: undergraduate/josue.png  
-    - name: 林品安 (Pin-An Lin)
-      photo: undergraduate/Pin-An.png
-    - name: 徐文献 (Wen-Hsien Hsu)
-      photo: undergraduate/Wen-Hsien.png
+    
