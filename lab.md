@@ -70,7 +70,7 @@ permalink:
 
 {% if category_data.category == "current-undergraduate" %}
 <hr>
-<h2 style="text-align: center">Undergraduate students (Independent study)</h2>
+<h2 style="text-align: center">Undergraduate students</h2>
 {% assign students = category_data.images %}
 <div class="gallery">
     {% if students and students.size > 0 %}
@@ -156,7 +156,7 @@ permalink:
 
 {% if alumni and alumni.size > 0 %}
 <hr>
-<h2 style="text-align: center">Undergraduate students (Independent study)</h2>
+<h2 style="text-align: center">Undergraduate students</h2>
 <div class="gallery">    
     {% for student in alumni %}
     <div class="student-card">
