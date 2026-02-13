@@ -40,18 +40,18 @@ I received my Ph.D. in 2014 from [National Taiwan University](https://www.ntu.ed
 My research interests include data science, machine learning/deep learning, time-series analysis, and Informatics of traditional Chinese medicine.  
 
 Some current topics of interest are: 
+* Adversarial machine learning
+* Generative models
 * Computer vision
-* Social networks
-* Recommender systems
 <br/>
 <hr/>
 <h2 style="text-align: center">Prospective Students</h2>
-I am looking for sharp motivated graduate students with interests in data science, machine learning, time-series analysis and AI.  
+I am seeking highly motivated undergraduate and graduate students with a strong interest in data science, machine learning, and AI to join our lab at NDHU. Students can participate as part of their academic program or as volunteers. Volunteer students will have the opportunity to contribute to ongoing projects, gain hands-on experience, and receive academic recognition.
 <br/>
-I have some openings for graduate students. If you have highly interested in joining my lab, please provide me the following materials and contact with [me](mailto:wcfang@gms.ndhu.edu.tw):
+If you are interested, please send the following:
 
-* Resume 履歷
-* A copy of your transcript and certificate 成績單與畢業證書影本
-* Some potential research ideas you want to explore
-* (optional) Material of your independent study (專題)
+* Resume or CV
+* Transcript and degree certificate
+* Any research ideas you would like to explore
+* (Optional) Materials from your undergraduate project
 <br/>
