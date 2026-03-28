@@ -24,8 +24,6 @@
   images: 
     - name: Kelvin Pratama
       photo: undergraduate/Kelvin.jpg
-    - name: Muhammad Yazid Alfarisi
-      photo: undergraduate/Yazid.jpg
     - name: Nguyen Minh Chinh
       photo: undergraduate/nguyen.jpg  
     - name: Cassie Charlie
@@ -33,9 +31,7 @@
     - name: Rajwani Zalfa Syafitri
       photo: undergraduate/wani.png
     - name: Alex Carlos Ack
-      photo: undergraduate/Alex.jpg
-    - name: Carlos Andres Pineda Lagos
-      photo: undergraduate/carlos.png  
+      photo: undergraduate/Alex.jpg  
 - category: current-volunteer
   images:
     - name: Jaime Rolando Mejia
