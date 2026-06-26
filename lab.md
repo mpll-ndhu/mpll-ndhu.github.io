@@ -175,7 +175,7 @@ permalink:
 
 {% if alumni and alumni.size > 0 %}
 <hr>
-<h2 style="text-align: center">Assistant</h2>
+<h2 style="text-align: center">Assistants</h2>
 <div class="gallery">    
     {% for assistant in alumni %}
     <div class="student-card">
