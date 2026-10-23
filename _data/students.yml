@@ -28,14 +28,14 @@
   images: 
     - name: Kelvin Pratama
       photo: undergraduate/Kelvin.jpg
-    - name: Nguyen Minh Chinh
-      photo: undergraduate/nguyen.jpg  
-    - name: Cassie Charlie
-      photo: undergraduate/cassie.jpg
-    - name: Rajwani Zalfa Syafitri
-      photo: undergraduate/wani.png
-    - name: Alex Carlos Ack
-      photo: undergraduate/Alex.jpg  
+    - name: Chliford Wynn
+      photo: undergraduate/Chliford.jpg
+    - name: Rafael Tristan Surya
+      photo: undergraduate/Rafael.jpg
+    - name: Peerada Boonkrob
+      photo: undergraduate/Peerada.jpg
+    - name: Elizabeth Immanuela Putri
+      photo: undergraduate/Elizabeth.jpg         
 - category: current-volunteer
   images:
     - name: Jaime Rolando Mejia
