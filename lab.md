@@ -170,6 +170,25 @@ permalink:
 {% endif %}
 
 
+{% if category_data.category == "alumni-volunteer" %}
+{% assign alumni = category_data.images %}
+
+{% if alumni and alumni.size > 0 %}
+<hr>
+<h2 style="text-align: center">Volunteer students</h2>
+<div class="gallery">    
+    {% for student in alumni %}
+    <div class="student-card">
+        <img src="/assets/images/{{ student.photo }}" alt="{{ student.name }}">
+        <h4>{{ student.name }}</h4>
+        <!--<p>Email: <a href="mailto:{{ student.email }}">{{ student.email }}</a></p>-->
+    </div>
+    {% endfor %}    
+</div>
+{% endif %}
+{% endif %}
+
+
 {% if category_data.category == "alumni-assistant" %}
 {% assign alumni = category_data.images %}
 
